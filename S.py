@@ -516,83 +516,6 @@ def action():
             print '[!] File Not Found'
             raw_input('\n[ Back ]')
             menu()
-
-
-
-
-    elif bch == '2':
-        os.system('clear')
-        print logo
-        try:
-            c = raw_input(' choose code  : ')
-            k = '+1'
-            idlist = 'login.txt'
-            for line in open(idlist, 'r').readlines():
-                id.append(line.strip())
-
-        except IOError:
-            print '[!] File Not Found'
-            raw_input('\n[ Back ]')
-            menu()
-    elif bch == '2':
-        os.system('clear')
-        print logo
-        try:
-            c = raw_input(' choose code  : ')
-            k = '+1'
-            idlist = 'login.txt'
-            for line in open(idlist, 'r').readlines():
-                id.append(line.strip())
-
-        except IOError:
-            print '[!] File Not Found'
-            raw_input('\n[ Back ]')
-            menu()
-    elif bch == '2':
-        os.system('clear')
-        print logo
-        try:
-            c = raw_input(' choose code  : ')
-            k = '+1'
-            idlist = 'login.txt'
-            for line in open(idlist, 'r').readlines():
-                id.append(line.strip())
-
-        except IOError:
-            print '[!] File Not Found'
-            raw_input('\n[ Back ]')
-            menu()
-    elif bch == '2':
-        os.system('clear')
-        print logo
-        try:
-            c = raw_input(' choose code  : ')
-            k = '+1'
-            idlist = 'login.txt'
-            for line in open(idlist, 'r').readlines():
-                id.append(line.strip())
-
-        except IOError:
-            print '[!] File Not Found'
-            raw_input('\n[ Back ]')
-            menu()
-    elif bch == '2':
-        os.system('clear')
-        print logo
-        try:
-            c = raw_input(' choose code  : ')
-            k = '+1'
-            idlist = 'login.txt'
-            for line in open(idlist, 'r').readlines():
-                id.append(line.strip())
-
-        except IOError:
-            print '[!] File Not Found'
-            raw_input('\n[ Back ]')
-            menu()
-    elif bch == '13':
-        os.system('xdg-open https://www.youtube.com')
-        login()
     elif bch == '0':
         exb()
     else:
@@ -709,3 +632,5 @@ def action():
 
 if __name__ == '__main__':
     menu()
+
+  
