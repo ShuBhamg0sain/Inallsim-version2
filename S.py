@@ -125,8 +125,8 @@ def menu():
         print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[11] Pakistan  \033[1;91m☆.\x1b[1;96m[24]  SaudiArabia'
 	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[12] Indonesia \033[1;91m☆.\x1b[1;96m[25]  Israel'     
         print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[13] Greece    \033[1;91m☆.\x1b[1;96m[26]  Iran'       
-	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;91m[0]  Back            '       	
-        print '[0]\033[1;97m  Exit'
+	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;91m[27] Nigeria   \033[1;91m☆.\x1b[1;96m[28]  follow me'       	
+ 	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;91m[29] exit      \033[1;91m☆.\x1b[1;96m[30]  updatetool'
         print "\033[1;96m⊱⋕⊰══════════════════════════════════════════════⊱⋕⊰\n"
         print 50*'-'
 	action()        
@@ -140,11 +140,10 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;95m536, 559, 621, 005, 198, 935, 936 "
-                print "\033[1;95m559, 621, 651, 695, 794, 956, 793,"
+                print("\033[1;93m175,165,191, 192, 193, 194, 195, 196, 197, 198, 199")
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+919"
+                        k="+880"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -156,11 +155,10 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m009, 127, 173, 174, 175,"
-                print "\033[1;95m400, 756, 853, 953,"
+		print("\033[1;93m555,786, 815, 315, 256, 401, 718, 917, 202, 701, 303, 703, 803, 999, 708")
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+918"
+                        k="+1"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -172,11 +170,10 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m388, 607, 897, 755,"
-                print "\033[1;95m755,"
+		print("\033[1;93m715,785,765,725,745,735,737, 706, 748, 783, 739, 759, 790")
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="+44"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -328,7 +325,7 @@ def action():
                         print ("[!] File Not Found")
                         raw_input("\n[ Back ]")
                         menu()
-        elif bch =="3":
+        elif bch =="13":
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
@@ -344,7 +341,7 @@ def action():
                         print ("[!] File Not Found")
                         raw_input("\n[ Back ]")
                         menu()
-        elif bch =="3":
+        elif bch =="14":
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
@@ -360,7 +357,7 @@ def action():
                         print ("[!] File Not Found")
                         raw_input("\n[ Back ]")
                         menu()
-        elif bch =="3":
+        elif bch =="15":
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
@@ -376,7 +373,7 @@ def action():
                         print ("[!] File Not Found")
                         raw_input("\n[ Back ]")
                         menu()
-        elif bch =="3":
+        elif bch =="16":
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
@@ -392,7 +389,7 @@ def action():
                         print ("[!] File Not Found")
                         raw_input("\n[ Back ]")
                         menu()
-        elif bch =="3":
+        elif bch =="17":
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
@@ -408,7 +405,7 @@ def action():
                         print ("[!] File Not Found")
                         raw_input("\n[ Back ]")
                         menu()
-        elif bch =="3":
+        elif bch =="18":
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
@@ -424,7 +421,7 @@ def action():
                         print ("[!] File Not Found")
                         raw_input("\n[ Back ]")
                         menu()
-        elif bch =="3":
+        elif bch =="19":
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
@@ -440,7 +437,7 @@ def action():
                         print ("[!] File Not Found")
                         raw_input("\n[ Back ]")
                         menu()
-        elif bch =="3":
+        elif bch =="20":
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
@@ -456,7 +453,7 @@ def action():
                         print ("[!] File Not Found")
                         raw_input("\n[ Back ]")
                         menu()
-        elif bch =="3":
+        elif bch =="21":
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
@@ -472,7 +469,7 @@ def action():
                         print ("[!] File Not Found")
                         raw_input("\n[ Back ]")
                         menu()
-        elif bch =="3":
+        elif bch =="22":
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
@@ -488,7 +485,7 @@ def action():
                         print ("[!] File Not Found")
                         raw_input("\n[ Back ]")
                         menu()
-        elif bch =="3":
+        elif bch =="23":
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
@@ -504,7 +501,7 @@ def action():
                         print ("[!] File Not Found")
                         raw_input("\n[ Back ]")
                         menu()
-        elif bch =="3":
+        elif bch =="24":
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
@@ -520,7 +517,7 @@ def action():
                         print ("[!] File Not Found")
                         raw_input("\n[ Back ]")
                         menu()
-        elif bch =="3":
+        elif bch =="25":
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
@@ -536,7 +533,7 @@ def action():
                         print ("[!] File Not Found")
                         raw_input("\n[ Back ]")
                         menu()
-        elif bch =="3":
+        elif bch =="26":
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
@@ -552,15 +549,13 @@ def action():
                         print ("[!] File Not Found")
                         raw_input("\n[ Back ]")
                         menu()
-        elif bch =="3":
+        elif bch =="27":
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m388, 607, 897, 755,"
-                print "\033[1;95m755,"
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="+234"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -569,13 +564,9 @@ def action():
                         raw_input("\n[ Back ]")
                         menu()
         elif bch =="28":
-                os.system('xdg-open https://chat.whatsapp.com/JtCW38B01hjAGwlVHhyu5q')
+                os.system('xdg-open https://www.instagram.com/shubham_g0sain/?hl=en')
                 print "\033[1;91mrun allsim by python2 S.py"
-                
-        elif bch =="29":
-                os.system('xdg-open https://chat.whatsapp.com/JyqQKyXuw3f43Ll90pHSMO')
-                print "\033[1;91mrun allsim by python2 S.py"
-                
+               
         elif bch =="30":
             os.system("clear")
             os.system("pip2 install --upgrade balln")
@@ -590,7 +581,7 @@ def action():
 #           os.system('xdg-open https://www.facebook.com/100002059014174/posts/2677733205638620/?substory_index=0&app=fbl')
 #           time.sleep(1)
 #           menu()
-        elif bch =='0':
+        elif bch =='29':
                 exb()
         else:
                 print '[!] Fill in correctly'
