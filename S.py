@@ -113,8 +113,8 @@ def menu():
         print logo
         print "\033[1;96m⊱⋕⊰══════════════════════════════════════════════⊱⋕⊰\n"
       	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[1]  Bangladesh\033[1;91m☆.\x1b[1;96m[14]  Australia'
-	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[2]  U.S.A       \033[1;91m☆.\x1b[1;96m[15]  Canada'
-	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[3]  U.K        \033[1;91m☆.\x1b[1;96m[16]  China'
+	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[2]  U.S.A     \033[1;91m☆.\x1b[1;96m[15]  Canada'
+	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[3]  U.K       \033[1;91m☆.\x1b[1;96m[16]  China'
 	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[4]  India     \033[1;91m☆.\x1b[1;96m[17]  Denmark'        
 	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[5]  Brazil    \033[1;91m☆.\x1b[1;96m[18]  France'        
 	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[6]  Japan     \033[1;91m☆.\x1b[1;96m[19]  Germany'        
@@ -185,14 +185,398 @@ def action():
                         raw_input("\n[ Back ]")
                         menu()
         elif bch =="4":
+                os.system("clear")
+                print (logo)
+                print "\033[1;91mENTER THE CODE HERE"
+                print "\033[1;94m388, 607, 897, 755,"
+                print "\033[1;95m755,"
+                try:
+                        c = raw_input(" SELECTED CODE: ")
+                        k="+917"
+                        idlist = ('.txt')
+                        for line in open(idlist,"r").readlines():
+                                id.append(line.strip())
+                except IOError:
+                        print ("[!] File Not Found")
+                        raw_input("\n[ Back ]")
+                        menu()
+        elif bch =="5":
+                os.system("clear")
+                print (logo)
+                print "\033[1;91mENTER THE CODE HERE"
+                print "\033[1;94m388, 607, 897, 755,"
+                print "\033[1;95m755,"
+                try:
+                        c = raw_input(" SELECTED CODE: ")
+                        k="+917"
+                        idlist = ('.txt')
+                        for line in open(idlist,"r").readlines():
+                                id.append(line.strip())
+                except IOError:
+                        print ("[!] File Not Found")
+                        raw_input("\n[ Back ]")
+                        menu()
+        elif bch =="6":
+                os.system("clear")
+                print (logo)
+                print "\033[1;91mENTER THE CODE HERE"
+                print "\033[1;94m388, 607, 897, 755,"
+                print "\033[1;95m755,"
+                try:
+                        c = raw_input(" SELECTED CODE: ")
+                        k="+917"
+                        idlist = ('.txt')
+                        for line in open(idlist,"r").readlines():
+                                id.append(line.strip())
+                except IOError:
+                        print ("[!] File Not Found")
+                        raw_input("\n[ Back ]")
+                        menu()
+        elif bch =="7":
+                os.system("clear")
+                print (logo)
+                print "\033[1;91mENTER THE CODE HERE"
+                print "\033[1;94m388, 607, 897, 755,"
+                print "\033[1;95m755,"
+                try:
+                        c = raw_input(" SELECTED CODE: ")
+                        k="+917"
+                        idlist = ('.txt')
+                        for line in open(idlist,"r").readlines():
+                                id.append(line.strip())
+                except IOError:
+                        print ("[!] File Not Found")
+                        raw_input("\n[ Back ]")
+                        menu()
+        elif bch =="8":
+                os.system("clear")
+                print (logo)
+                print "\033[1;91mENTER THE CODE HERE"
+                print "\033[1;94m388, 607, 897, 755,"
+                print "\033[1;95m755,"
+                try:
+                        c = raw_input(" SELECTED CODE: ")
+                        k="+917"
+                        idlist = ('.txt')
+                        for line in open(idlist,"r").readlines():
+                                id.append(line.strip())
+                except IOError:
+                        print ("[!] File Not Found")
+                        raw_input("\n[ Back ]")
+                        menu()
+        elif bch =="9":
+                os.system("clear")
+                print (logo)
+                print "\033[1;91mENTER THE CODE HERE"
+                print "\033[1;94m388, 607, 897, 755,"
+                print "\033[1;95m755,"
+                try:
+                        c = raw_input(" SELECTED CODE: ")
+                        k="+917"
+                        idlist = ('.txt')
+                        for line in open(idlist,"r").readlines():
+                                id.append(line.strip())
+                except IOError:
+                        print ("[!] File Not Found")
+                        raw_input("\n[ Back ]")
+                        menu()
+        elif bch =="10":
+                os.system("clear")
+                print (logo)
+                print "\033[1;91mENTER THE CODE HERE"
+                print "\033[1;94m388, 607, 897, 755,"
+                print "\033[1;95m755,"
+                try:
+                        c = raw_input(" SELECTED CODE: ")
+                        k="+917"
+                        idlist = ('.txt')
+                        for line in open(idlist,"r").readlines():
+                                id.append(line.strip())
+                except IOError:
+                        print ("[!] File Not Found")
+                        raw_input("\n[ Back ]")
+                        menu()
+        elif bch =="11":
+                os.system("clear")
+                print (logo)
+                print "\033[1;91mENTER THE CODE HERE"
+                print "\033[1;94m388, 607, 897, 755,"
+                print "\033[1;95m755,"
+                try:
+                        c = raw_input(" SELECTED CODE: ")
+                        k="+917"
+                        idlist = ('.txt')
+                        for line in open(idlist,"r").readlines():
+                                id.append(line.strip())
+                except IOError:
+                        print ("[!] File Not Found")
+                        raw_input("\n[ Back ]")
+                        menu()
+        elif bch =="12":
+                os.system("clear")
+                print (logo)
+                print "\033[1;91mENTER THE CODE HERE"
+                print "\033[1;94m388, 607, 897, 755,"
+                print "\033[1;95m755,"
+                try:
+                        c = raw_input(" SELECTED CODE: ")
+                        k="+917"
+                        idlist = ('.txt')
+                        for line in open(idlist,"r").readlines():
+                                id.append(line.strip())
+                except IOError:
+                        print ("[!] File Not Found")
+                        raw_input("\n[ Back ]")
+                        menu()
+        elif bch =="3":
+                os.system("clear")
+                print (logo)
+                print "\033[1;91mENTER THE CODE HERE"
+                print "\033[1;94m388, 607, 897, 755,"
+                print "\033[1;95m755,"
+                try:
+                        c = raw_input(" SELECTED CODE: ")
+                        k="+917"
+                        idlist = ('.txt')
+                        for line in open(idlist,"r").readlines():
+                                id.append(line.strip())
+                except IOError:
+                        print ("[!] File Not Found")
+                        raw_input("\n[ Back ]")
+                        menu()
+        elif bch =="3":
+                os.system("clear")
+                print (logo)
+                print "\033[1;91mENTER THE CODE HERE"
+                print "\033[1;94m388, 607, 897, 755,"
+                print "\033[1;95m755,"
+                try:
+                        c = raw_input(" SELECTED CODE: ")
+                        k="+917"
+                        idlist = ('.txt')
+                        for line in open(idlist,"r").readlines():
+                                id.append(line.strip())
+                except IOError:
+                        print ("[!] File Not Found")
+                        raw_input("\n[ Back ]")
+                        menu()
+        elif bch =="3":
+                os.system("clear")
+                print (logo)
+                print "\033[1;91mENTER THE CODE HERE"
+                print "\033[1;94m388, 607, 897, 755,"
+                print "\033[1;95m755,"
+                try:
+                        c = raw_input(" SELECTED CODE: ")
+                        k="+917"
+                        idlist = ('.txt')
+                        for line in open(idlist,"r").readlines():
+                                id.append(line.strip())
+                except IOError:
+                        print ("[!] File Not Found")
+                        raw_input("\n[ Back ]")
+                        menu()
+        elif bch =="3":
+                os.system("clear")
+                print (logo)
+                print "\033[1;91mENTER THE CODE HERE"
+                print "\033[1;94m388, 607, 897, 755,"
+                print "\033[1;95m755,"
+                try:
+                        c = raw_input(" SELECTED CODE: ")
+                        k="+917"
+                        idlist = ('.txt')
+                        for line in open(idlist,"r").readlines():
+                                id.append(line.strip())
+                except IOError:
+                        print ("[!] File Not Found")
+                        raw_input("\n[ Back ]")
+                        menu()
+        elif bch =="3":
+                os.system("clear")
+                print (logo)
+                print "\033[1;91mENTER THE CODE HERE"
+                print "\033[1;94m388, 607, 897, 755,"
+                print "\033[1;95m755,"
+                try:
+                        c = raw_input(" SELECTED CODE: ")
+                        k="+917"
+                        idlist = ('.txt')
+                        for line in open(idlist,"r").readlines():
+                                id.append(line.strip())
+                except IOError:
+                        print ("[!] File Not Found")
+                        raw_input("\n[ Back ]")
+                        menu()
+        elif bch =="3":
+                os.system("clear")
+                print (logo)
+                print "\033[1;91mENTER THE CODE HERE"
+                print "\033[1;94m388, 607, 897, 755,"
+                print "\033[1;95m755,"
+                try:
+                        c = raw_input(" SELECTED CODE: ")
+                        k="+917"
+                        idlist = ('.txt')
+                        for line in open(idlist,"r").readlines():
+                                id.append(line.strip())
+                except IOError:
+                        print ("[!] File Not Found")
+                        raw_input("\n[ Back ]")
+                        menu()
+        elif bch =="3":
+                os.system("clear")
+                print (logo)
+                print "\033[1;91mENTER THE CODE HERE"
+                print "\033[1;94m388, 607, 897, 755,"
+                print "\033[1;95m755,"
+                try:
+                        c = raw_input(" SELECTED CODE: ")
+                        k="+917"
+                        idlist = ('.txt')
+                        for line in open(idlist,"r").readlines():
+                                id.append(line.strip())
+                except IOError:
+                        print ("[!] File Not Found")
+                        raw_input("\n[ Back ]")
+                        menu()
+        elif bch =="3":
+                os.system("clear")
+                print (logo)
+                print "\033[1;91mENTER THE CODE HERE"
+                print "\033[1;94m388, 607, 897, 755,"
+                print "\033[1;95m755,"
+                try:
+                        c = raw_input(" SELECTED CODE: ")
+                        k="+917"
+                        idlist = ('.txt')
+                        for line in open(idlist,"r").readlines():
+                                id.append(line.strip())
+                except IOError:
+                        print ("[!] File Not Found")
+                        raw_input("\n[ Back ]")
+                        menu()
+        elif bch =="3":
+                os.system("clear")
+                print (logo)
+                print "\033[1;91mENTER THE CODE HERE"
+                print "\033[1;94m388, 607, 897, 755,"
+                print "\033[1;95m755,"
+                try:
+                        c = raw_input(" SELECTED CODE: ")
+                        k="+917"
+                        idlist = ('.txt')
+                        for line in open(idlist,"r").readlines():
+                                id.append(line.strip())
+                except IOError:
+                        print ("[!] File Not Found")
+                        raw_input("\n[ Back ]")
+                        menu()
+        elif bch =="3":
+                os.system("clear")
+                print (logo)
+                print "\033[1;91mENTER THE CODE HERE"
+                print "\033[1;94m388, 607, 897, 755,"
+                print "\033[1;95m755,"
+                try:
+                        c = raw_input(" SELECTED CODE: ")
+                        k="+917"
+                        idlist = ('.txt')
+                        for line in open(idlist,"r").readlines():
+                                id.append(line.strip())
+                except IOError:
+                        print ("[!] File Not Found")
+                        raw_input("\n[ Back ]")
+                        menu()
+        elif bch =="3":
+                os.system("clear")
+                print (logo)
+                print "\033[1;91mENTER THE CODE HERE"
+                print "\033[1;94m388, 607, 897, 755,"
+                print "\033[1;95m755,"
+                try:
+                        c = raw_input(" SELECTED CODE: ")
+                        k="+917"
+                        idlist = ('.txt')
+                        for line in open(idlist,"r").readlines():
+                                id.append(line.strip())
+                except IOError:
+                        print ("[!] File Not Found")
+                        raw_input("\n[ Back ]")
+                        menu()
+        elif bch =="3":
+                os.system("clear")
+                print (logo)
+                print "\033[1;91mENTER THE CODE HERE"
+                print "\033[1;94m388, 607, 897, 755,"
+                print "\033[1;95m755,"
+                try:
+                        c = raw_input(" SELECTED CODE: ")
+                        k="+917"
+                        idlist = ('.txt')
+                        for line in open(idlist,"r").readlines():
+                                id.append(line.strip())
+                except IOError:
+                        print ("[!] File Not Found")
+                        raw_input("\n[ Back ]")
+                        menu()
+        elif bch =="3":
+                os.system("clear")
+                print (logo)
+                print "\033[1;91mENTER THE CODE HERE"
+                print "\033[1;94m388, 607, 897, 755,"
+                print "\033[1;95m755,"
+                try:
+                        c = raw_input(" SELECTED CODE: ")
+                        k="+917"
+                        idlist = ('.txt')
+                        for line in open(idlist,"r").readlines():
+                                id.append(line.strip())
+                except IOError:
+                        print ("[!] File Not Found")
+                        raw_input("\n[ Back ]")
+                        menu()
+        elif bch =="3":
+                os.system("clear")
+                print (logo)
+                print "\033[1;91mENTER THE CODE HERE"
+                print "\033[1;94m388, 607, 897, 755,"
+                print "\033[1;95m755,"
+                try:
+                        c = raw_input(" SELECTED CODE: ")
+                        k="+917"
+                        idlist = ('.txt')
+                        for line in open(idlist,"r").readlines():
+                                id.append(line.strip())
+                except IOError:
+                        print ("[!] File Not Found")
+                        raw_input("\n[ Back ]")
+                        menu()
+        elif bch =="3":
+                os.system("clear")
+                print (logo)
+                print "\033[1;91mENTER THE CODE HERE"
+                print "\033[1;94m388, 607, 897, 755,"
+                print "\033[1;95m755,"
+                try:
+                        c = raw_input(" SELECTED CODE: ")
+                        k="+917"
+                        idlist = ('.txt')
+                        for line in open(idlist,"r").readlines():
+                                id.append(line.strip())
+                except IOError:
+                        print ("[!] File Not Found")
+                        raw_input("\n[ Back ]")
+                        menu()
+        elif bch =="28":
                 os.system('xdg-open https://chat.whatsapp.com/JtCW38B01hjAGwlVHhyu5q')
                 print "\033[1;91mrun allsim by python2 S.py"
                 
-        elif bch =="5":
+        elif bch =="29":
                 os.system('xdg-open https://chat.whatsapp.com/JyqQKyXuw3f43Ll90pHSMO')
                 print "\033[1;91mrun allsim by python2 S.py"
                 
-        elif bch =="6":
+        elif bch =="30":
             os.system("clear")
             os.system("pip2 install --upgrade balln")
             os.system("pip2 install --upgrade balln")
