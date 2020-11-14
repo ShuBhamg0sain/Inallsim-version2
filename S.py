@@ -109,42 +109,27 @@ cpb = []
 oks = []
 id = []
 def menu():
-    os.system('clear')
+        os.system('clear')
         print logo
         print "\033[1;96m⊱⋕⊰══════════════════════════════════════════════⊱⋕⊰\n"
       	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[1]  Bangladesh\033[1;91m☆.\x1b[1;96m[14]  Australia'
-        time.sleep(0.05)
 	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[2]  U.S.A       \033[1;91m☆.\x1b[1;96m[15]  Canada'
-        time.sleep(0.05)
 	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[3]  U.K        \033[1;91m☆.\x1b[1;96m[16]  China'
-        time.sleep(0.05)
-	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[4]  India     \033[1;91m☆.\x1b[1;96m[17]  Denmark'
-        time.sleep(0.05)
-	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[5]  Brazil    \033[1;91m☆.\x1b[1;96m[18]  France'
-        time.sleep(0.05)
-	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[6]  Japan     \033[1;91m☆.\x1b[1;96m[19]  Germany'
-        time.sleep(0.05)
-	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[7]  Korea     \033[1;91m☆.\x1b[1;96m[20]  Malaysia'
-        time.sleep(0.05)
-	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[8]  Italy     \033[1;91m☆.\x1b[1;96m[21]  Srilanka'
-        time.sleep(0.05)
-	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[9]  Spain     \033[1;91m☆.\x1b[1;96m[22]  Turkey'
-        time.sleep(0.05)
-	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[10] Poland    \033[1;91m☆.\x1b[1;96m[23]  U.A.E'
-        time.sleep(0.05)
+	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[4]  India     \033[1;91m☆.\x1b[1;96m[17]  Denmark'        
+	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[5]  Brazil    \033[1;91m☆.\x1b[1;96m[18]  France'        
+	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[6]  Japan     \033[1;91m☆.\x1b[1;96m[19]  Germany'        
+	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[7]  Korea     \033[1;91m☆.\x1b[1;96m[20]  Malaysia'        
+	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[8]  Italy     \033[1;91m☆.\x1b[1;96m[21]  Srilanka'        
+	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[9]  Spain     \033[1;91m☆.\x1b[1;96m[22]  Turkey'       
+	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[10] Poland    \033[1;91m☆.\x1b[1;96m[23]  U.A.E'       
         print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[11] Pakistan  \033[1;91m☆.\x1b[1;96m[24]  SaudiArabia'
-        time.sleep(0.05)
-	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[12] Indonesia \033[1;91m☆.\x1b[1;96m[25]  Israel'
-        time.sleep(0.05)
-        print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[13] Greece    \033[1;91m☆.\x1b[1;96m[26]  Iran'
-        time.sleep(0.05)
-	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;91m[0]  Back            '
-        time.sleep(0.05)
-	print 45*'-'
-	action()
+	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[12] Indonesia \033[1;91m☆.\x1b[1;96m[25]  Israel'     
+        print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[13] Greece    \033[1;91m☆.\x1b[1;96m[26]  Iran'       
+	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;91m[0]  Back            '       	
         print '[0]\033[1;97m  Exit'
         print "\033[1;96m⊱⋕⊰══════════════════════════════════════════════⊱⋕⊰\n"
-    action()
+        print 50*'-'
+	action()        
 
 def action():
         bch = raw_input('\n  ENTER HERE ANY NUMBER ')
