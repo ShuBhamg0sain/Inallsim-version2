@@ -3,7 +3,7 @@
 #WHATAPP NO +919557777030
 import os
 CorrectUsername = "g0sain"
-CorrectPassword = "sim"
+CorrectPassword = "simv2"
 
 loop = 'true'
 while (loop == 'true'):
