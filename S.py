@@ -140,7 +140,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print("\033[1;93m175,165,191, 192, 193, 194, 195, 196, 197, 198, 199")
+                print "\033[1;93m175,165,191, 192, 193, 194, 195, 196, 197, 198, 199"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+880"
@@ -155,7 +155,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-		print("\033[1;93m555,786, 815, 315, 256, 401, 718, 917, 202, 701, 303, 703, 803, 999, 708")
+		print "\033[1;93m555,786, 815, 315, 256, 401, 718, 917, 202, 701, 303, 703, 803, 999, 708"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+1"
@@ -170,7 +170,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-		print("\033[1;93m715,785,765,725,745,735,737, 706, 748, 783, 739, 759, 790")
+		print "\033[1;93m715,785,765,725,745,735,737, 706, 748, 783, 739, 759, 790"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+44"
@@ -185,7 +185,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print("\033[1;93m905,975,755,855,954, 897, 967, 937, 700, 727, 965, 786, 874, 856, 566, 590, 527, 568, 578")
+                print "\033[1;93m905,975,755,855,954, 897, 967, 937, 700, 727, 965, 786, 874, 856, 566, 590, 527, 568, 578"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+91"
@@ -200,7 +200,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-		print("\033[1;93m127, 179, 117, 853, 318, 219, 834, 186, 479, 113")
+		print "\033[1;93m127, 179, 117, 853, 318, 219, 834, 186, 479, 113"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+55"
@@ -215,7 +215,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-		print("\033[1;93m11, 12, 19, 16, 15, 13, 14, 18, 17")
+		print "\033[1;93m11, 12, 19, 16, 15, 13, 14, 18, 17"
 
                 try:
                         c = raw_input(" SELECTED CODE: ")
@@ -231,7 +231,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-		print("\033[1;93m1, 2, 3, 4, 5, 6, 7, 8, 9")
+		print "\033[1;93m1, 2, 3, 4, 5, 6, 7, 8, 9"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+82"
@@ -246,7 +246,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-		print("\033[1;93m311,323,385,388, 390, 391, 371, 380, 368, 386, 384, 332, 344, 351, 328")
+		print "\033[1;93m311,323,385,388, 390, 391, 371, 380, 368, 386, 384, 332, 344, 351, 328"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+39"
@@ -261,7 +261,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-		print("\033[1;93m655,755,60, 76, 73, 64, 69, 77, 65, 61, 75, 68")
+		print "\033[1;93m655,755,60, 76, 73, 64, 69, 77, 65, 61, 75, 68"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+34"
@@ -276,7 +276,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-		print("\033[1;93m66, 69, 78, 79, 60, 72, 67, 53, 51")
+		print "\033[1;93m66, 69, 78, 79, 60, 72, 67, 53, 51"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+48"
@@ -291,7 +291,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-		print("\033[1;93m01, ~to~~, 49")
+		print "\033[1;93m01, ~to~~, 49"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+03"
@@ -306,7 +306,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-		print("\033[1;93m81,83,85,84,89,")
+		print "\033[1;93m81,83,85,84,89,"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+880"
@@ -321,7 +321,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print("\033[1;93m(693,698,694,695")
+                print "\033[1;93m693,698,694,695"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+3069"
@@ -336,7 +336,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-		print("\033[1;93m(455")
+		print "\033[1;93m455"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+61"
@@ -351,7 +351,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-		print("\033[1;93m(555,")
+		print "\033[1;93m555,"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+1"
@@ -366,7 +366,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-		print("\033[1;93m(1355,1555,1855,")
+		print "\033[1;93m1355,1555,1855,"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+86"
@@ -381,7 +381,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-		print("\033[1;93m(2,3,4,5,6,7,8")
+		print "\033[1;93m2,3,4,5,6,7,8"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+45"
@@ -396,7 +396,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-		print("\033[1;93m(65,70,73,74,76,77")
+		print "\033[1;93m65,70,73,74,76,77"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+33"
@@ -411,7 +411,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-		print("\033[1;93m(151,152,153,155,157,159,160,162,179,163,174,163")
+		print "\033[1;93m151,152,153,155,157,159,160,162,179,163,174,163"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+49"
@@ -426,7 +426,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-		print("\033[1;93m(11,12,13,14,15,16,17,18,19")
+		print "\033[1;93m11,12,13,14,15,16,17,18,19"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+60"
@@ -441,7 +441,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-		print("\033[1;93m(71,72,73,74,75,76,77,78")
+		print "\033[1;93m71,72,73,74,75,76,77,78"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+94"
@@ -456,7 +456,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-		print("\033[1;93m(55,54,53,52,50")
+		print "\033[1;93m55,54,53,52,50"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+90"
@@ -471,7 +471,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;95m(50,55,58,54,56")
+                print "\033[1;95m50,55,58,54,56"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+971"
@@ -486,7 +486,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-		print("\033[1;93m(50,51,52,53,54,55,56,57,58,")
+		print "\033[1;93m50,51,52,53,54,55,56,57,58,"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+966"
@@ -501,7 +501,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-		print("\033[1;93m(52,55")
+		print "\033[1;93m52,55"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+972"
@@ -516,7 +516,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-		print("\033[1;93m(990,915,901,933,938,902")
+		print "\033[1;93m990,915,901,933,938,902"
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+98"
