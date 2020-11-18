@@ -2,6 +2,7 @@
 
 #Note
 # Find me for username and password
+# My Instagram acc
 [Instagram](https://www.instagram.com/shubham_g0sain/?hl=en)
 
 pkg update
