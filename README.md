@@ -5,6 +5,8 @@
 # My Instagram acc
 [Instagram](https://www.instagram.com/shubham_g0sain/?hl=en)
 
+
+# Installation
 pkg update
 
 pkg upgrade
