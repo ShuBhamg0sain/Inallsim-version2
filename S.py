@@ -215,11 +215,11 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m388, 607, 897, 755,"
-                print "\033[1;95m755,"
+		print("\033[1;93m11, 12, 19, 16, 15, 13, 14, 18, 17")
+
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="+81"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -231,11 +231,10 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m388, 607, 897, 755,"
-                print "\033[1;95m755,"
+		print("\033[1;93m1, 2, 3, 4, 5, 6, 7, 8, 9")
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="+82"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -247,11 +246,10 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m388, 607, 897, 755,"
-                print "\033[1;95m755,"
+		print("\033[1;93m311,323,385,388, 390, 391, 371, 380, 368, 386, 384, 332, 344, 351, 328")
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="+39"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -263,11 +261,10 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m388, 607, 897, 755,"
-                print "\033[1;95m755,"
+		print("\033[1;93m655,755,60, 76, 73, 64, 69, 77, 65, 61, 75, 68")
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="+34"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -279,11 +276,10 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m388, 607, 897, 755,"
-                print "\033[1;95m755,"
+		print("\033[1;93m66, 69, 78, 79, 60, 72, 67, 53, 51")
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="+48"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -295,11 +291,10 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m388, 607, 897, 755,"
-                print "\033[1;95m755,"
+		print("\033[1;93m01, ~to~~, 49")
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="+03"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -311,11 +306,10 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m388, 607, 897, 755,"
-                print "\033[1;95m755,"
+		print("\033[1;93m81,83,85,84,89,")
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="+880"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -327,11 +321,10 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m388, 607, 897, 755,"
-                print "\033[1;95m755,"
+                print("\033[1;93m(693,698,694,695")
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="+3069"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -343,11 +336,10 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m388, 607, 897, 755,"
-                print "\033[1;95m755,"
+		print("\033[1;93m(455")
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="+61"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -359,11 +351,10 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m388, 607, 897, 755,"
-                print "\033[1;95m755,"
+		print("\033[1;93m(555,")
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="+1"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -375,11 +366,10 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m388, 607, 897, 755,"
-                print "\033[1;95m755,"
+		print("\033[1;93m(1355,1555,1855,")
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="+86"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -391,11 +381,10 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m388, 607, 897, 755,"
-                print "\033[1;95m755,"
+		print("\033[1;93m(2,3,4,5,6,7,8")
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="+45"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -407,11 +396,10 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m388, 607, 897, 755,"
-                print "\033[1;95m755,"
+		print("\033[1;93m(65,70,73,74,76,77")
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="+33"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -423,11 +411,10 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m388, 607, 897, 755,"
-                print "\033[1;95m755,"
+		print("\033[1;93m(151,152,153,155,157,159,160,162,179,163,174,163")
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="+49"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -439,11 +426,10 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m388, 607, 897, 755,"
-                print "\033[1;95m755,"
+		print("\033[1;93m(11,12,13,14,15,16,17,18,19")
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="+60"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -455,11 +441,10 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m388, 607, 897, 755,"
-                print "\033[1;95m755,"
+		print("\033[1;93m(71,72,73,74,75,76,77,78")
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="+94"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -471,11 +456,10 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m388, 607, 897, 755,"
-                print "\033[1;95m755,"
+		print("\033[1;93m(55,54,53,52,50")
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="+90"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -487,11 +471,10 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m388, 607, 897, 755,"
-                print "\033[1;95m755,"
+                print "\033[1;95m(50,55,58,54,56")
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="+971"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -503,11 +486,10 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m388, 607, 897, 755,"
-                print "\033[1;95m755,"
+		print("\033[1;93m(50,51,52,53,54,55,56,57,58,")
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="+966"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -519,11 +501,10 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m388, 607, 897, 755,"
-                print "\033[1;95m755,"
+		print("\033[1;93m(52,55")
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="+972"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -535,11 +516,10 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m388, 607, 897, 755,"
-                print "\033[1;95m755,"
+		print("\033[1;93m(990,915,901,933,938,902")
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="+98"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -551,6 +531,7 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mENTER THE CODE HERE"
+
                 try:
                         c = raw_input(" SELECTED CODE: ")
                         k="+234"
@@ -563,7 +544,7 @@ def action():
                         menu()
         elif bch =="28":
                 os.system('xdg-open https://www.instagram.com/shubham_g0sain/?hl=en')
-                print "\033[1;91mrun allsim by python2 S.py"
+                print "\033[1;91mrun worldsallsimv2 by python2 S.py"
                
         elif bch =="30":
             os.system("clear")
