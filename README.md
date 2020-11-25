@@ -18,3 +18,4 @@ git clone https://github.com/ShuBhamg0sain/worldsallsim-v2
 cd worldsallsim-v2
 
 python2 S.py
+
